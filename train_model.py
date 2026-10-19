@@ -48,4 +48,4 @@ classifier.fit(X, y)
 with open("mood_classifier.pkl", "wb") as f:
     pickle.dump(classifier, f)
 
-print("Training complete! Your model now understands words like 'boring'.")
+print("Training complete! our model now understands words like 'boring'.")
