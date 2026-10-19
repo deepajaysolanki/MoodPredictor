@@ -50,3 +50,7 @@ The primary goal of this project is to implement and demonstrate Word Embedding 
  • train_model.py: The data ingestion and NLP model training script.
  • word2vec_skipgram.model: The saved Gensim vocabulary and embedding weights.
  • mood_classifier.pkl: The saved Logistic Regression classification model.
+
+Author
+Deep Solanki — Founder & Lead Full-Stack Developer
+portfolio: https://deepsolanki.onrender.com
